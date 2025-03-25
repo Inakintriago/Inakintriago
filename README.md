@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/Inakintriago/Inakintriago/blob/main/I%C3%B1aki%20Intriago.png" width="800"/>
+  <img decoding="async" src="https://github.com/Inakintriago/Inakintriago/blob/main/I%C3%B1aki%20Intriago%20Arredondo.png" width="800"/>
 </div>
 
 <div align="center">
