@@ -12,23 +12,23 @@
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
 
 <h1>
-  Hola soy Iñaki ¡Es un gusto conocerte!
+  Hi, I'm Iñaki, nice to meet you!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ---
  <div id="header" align="left">
 
-### :woman_technologist: Sobre mí :
-📊 Apasionado por el análisis de datos y la inteligencia de negocios, con experiencia en la toma de decisiones estratégicas basadas en datos. He trabajado con herramientas como Python, SQL, Power BI y Tableau para transformar información en insights accionables. He liderado proyectos de análisis de eficiencia y calidad de datos, aplicando metodologías estadísticas y modelos de inteligencia de negocios.
+### :woman_technologist: About Me :
+📊 Passionate about data analysis and business intelligence, with experience in making strategic decisions based on data. I have worked with tools like Python, SQL, Power BI, and Tableau to transform information into actionable insights. I have led projects on data efficiency and quality analysis, applying statistical methodologies and business intelligence models.
 
-🚀 He liderado proyectos de análisis de eficiencia y calidad de datos, aplicando metodologías estadísticas y modelos de inteligencia de negocios para evaluar rendimiento y detectar oportunidades de mejora. Además, cuento con experiencia en visualización de datos y storytelling, facilitando la toma de decisiones en equipos ejecutivos.
+🚀 I have led projects on data efficiency and quality analysis, applying statistical methodologies and business intelligence models to assess performance and detect improvement opportunities. Additionally, I have experience in data visualization and storytelling, facilitating decision-making in executive teams.
 
-💡 Me motiva el aprendizaje continuo y la aplicación de tecnología en el análisis de datos. Busco seguir creciendo en el área de Business Intelligence y Análisis de Datos, generando impacto en la optimización y estrategia empresarial.
+💡 I am motivated by continuous learning and applying technology to data analysis. I aim to keep growing in the Business Intelligence and Data Analysis field, creating an impact on business optimization and strategy.
 
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: Languages and Tools :
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
